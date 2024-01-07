@@ -2,7 +2,6 @@
 
 
 <h2 align="Center">  Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
 
 I'm a Computer Science Enthusiast , Currently in second year  at KIET Group Of Institutions.
 
@@ -12,7 +11,7 @@ I'm a Computer Science Enthusiast , Currently in second year  at KIET Group Of I
 - 🤔 I’m looking for help in learning about Web Dev and JavaScript 
 - 💬 Ask me about anything and everything 
 - 📫 How to reach me:
-[![Linkedin](https://www.linkedin.com/learning/c-data-structures-pointers-and-file-systems?trk=share_android_course_learning&shareId=6tbGMmMCQtC33MajsJLMKw%3D%3D)] 
+![Linkedin](https://www.linkedin.com/learning/c-data-structures-pointers-and-file-systems?trk=share_android_course_learning&shareId=6tbGMmMCQtC33MajsJLMKw%3D%3D)
 ![Email](aakarshangup@gmail.com)
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 
