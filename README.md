@@ -11,8 +11,8 @@ I'm a Computer Science Enthusiast , Currently in second year  at KIET Group Of I
 - 🤔 I’m looking for help in learning about Web Dev and JavaScript 
 - 💬 Ask me about anything and everything 
 - 📫 How to reach me:
-![Linkedin](https://www.linkedin.com/learning/c-data-structures-pointers-and-file-systems?trk=share_android_course_learning&shareId=6tbGMmMCQtC33MajsJLMKw%3D%3D)
-![Email](aakarshangup@gmail.com)
+[Linkedin](https://www.linkedin.com/in/aakarshan-gupta-0a935524b)
+[Email] aakarshangup@gmail.com
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 
 ⭐️ From [Aakarshan Gupta](https://github.com/aakarshangupta)
