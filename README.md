@@ -13,10 +13,8 @@ I'm a Computer Science Enthusiast , Currently in second year  at KIET Group Of I
 - 💬 Ask me about anything and everything 
 - 📫 How to reach me:
 [![Linkedin](https://www.linkedin.com/learning/c-data-structures-pointers-and-file-systems?trk=share_android_course_learning&shareId=6tbGMmMCQtC33MajsJLMKw%3D%3D)] 
-
+![Email](aakarshangup@gmail.com)
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
-
-<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=raghav-byte&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 
 ⭐️ From [Aakarshan Gupta](https://github.com/aakarshangupta)
 
