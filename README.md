@@ -21,8 +21,8 @@ I am a student, currently studying in KIET Group Of Institutions. From very earl
 
 ## Reach me 
 [Github](https://github.com/aakarshangupta)
-[Linkedin](https://www.linkedin.com/in/aakarshan-gupta-0a935524b)
-[Mail] aakarshangup@gmail.com
+[Linkedin](https://www.linkedin.com/in/aakarshan-gupta-0a935524b)<br>
+Mail: aakarshangup@gmail.com
 
 Thanks for viewing! 😁
 
