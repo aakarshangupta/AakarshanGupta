@@ -7,16 +7,16 @@ I am a student, currently studying in KIET Group Of Institutions. From very earl
 
 ## What I know :computer:
 - **Competitive Programming**
-	- Python ❤️
 	- C++
+   	- java
 	- Some C
 - **Frontend Development**
-	- HTML, CSS and Javascript :white_check_mark:
+	- HTML, CSS, React and Javascript :white_check_mark:
 	- Bootstrap
 
 ## What I want to do next :thinking:
 - Backend Development (to become a Full-Stack developer)
-- At least delve into AI and ML.
+- At least delve into Cloud.
 - Unlock the secret to the universe :rofl:
 
 ## Reach me 
